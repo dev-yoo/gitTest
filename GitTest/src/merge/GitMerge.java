@@ -23,4 +23,10 @@ public class GitMerge implements GitService{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+
+	@Override
+	public String contents() {
+		System.out.println("ÄÁÅÙÃ÷ Ã¤¿ü½À´Ï´Ù.");
+		return null;
+	}
 }

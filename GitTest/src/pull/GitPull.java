@@ -15,4 +15,10 @@ public class GitPull implements GitService{
 		return 0;
 	}
 
+	@Override
+	public String contents() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
