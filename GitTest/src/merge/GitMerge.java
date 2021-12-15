@@ -13,4 +13,8 @@ public class GitMerge implements GitService{
 	public void read() {
 		System.out.println("테스트 입니다.");
 	}
+	
+	public void listen() {
+		System.out.println("듣기입니다.");
+	}
 }
