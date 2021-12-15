@@ -7,4 +7,9 @@ public class GitPush {
 	public void print() {
 		System.out.println(test);
 	}
+	
+	public String getPrint() {
+		print();
+		return "";
+	}
 }
