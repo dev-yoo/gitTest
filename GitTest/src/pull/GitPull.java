@@ -9,4 +9,10 @@ public class GitPull implements GitService{
 		System.out.println(contents);
 	}
 
+	@Override
+	public int calurate() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }

@@ -17,4 +17,10 @@ public class GitMerge implements GitService{
 	public void listen() {
 		System.out.println("µË±‚¿‘¥œ¥Ÿ.");
 	}
+
+	@Override
+	public int calurate() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
 }
